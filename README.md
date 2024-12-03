@@ -78,6 +78,10 @@ The demo operates on the Alveo Accelerator Card and demonstrates performance ove
 2. Example sample data to run with Demo on X3522PV Card: Request via the [demo inquiry form](https://dgway.com/download/download_form.html?d=AATQDMA_LL10GEMAC_X3522.zip).
 3. For more information, please visit Design Gateway’s Low Latency IP Cores: [Visit Here](https://dgway.com/Lowlatency-IP_X_E.html).
 
+## Watch the Demo on YouTube
+
+[![Watch on YouTube](https://img.youtube.com/vi/booe3aAAYwk/0.jpg)](https://youtu.be/booe3aAAYwk)
+
 ---
 
 Feel free to explore and contribute to this repository for further optimizations and insights into FPGA-based trading acceleration.
