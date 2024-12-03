@@ -3,7 +3,7 @@
 ## Overview
 This repository provides detailed instructions for configuring the Alveo Accelerator Card and setting up the test environment to run the customized Accelerated Algorithmic Trading (AAT) demo from Design Gateway – **DG AAT QDMA demo**.
 
-![Block Diagram](path/to/your/block-diagram.png)
+![Block Diagram](https://github.com/design-gateway/aatqdma_ll10gemac_demo/blob/main/docs/AATQDMA_BlockDiagram.png)
 
 ## Introduction
 Software-based trading applications typically respond to market changes in microseconds or more, even with the fastest Smart Network Card. In contrast, FPGA-based hardware solutions reduce response times to less than 900 nanoseconds or much lower—offering a massive advantage in today's high-stakes trading environments. In high-frequency trading, every nanosecond counts; staying behind means falling behind.
