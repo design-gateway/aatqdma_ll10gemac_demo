@@ -74,9 +74,9 @@ The demo operates on the Alveo Accelerator Card and demonstrates performance ove
 4. Initiate the demo on the Alveo accelerator by executing the “`aat_qdma_exe`” application.
 
 ## Demo Download
-1. Alveo Card configuration files: Available in the **config** folder.
-2. Example PCAP data: Request via the [demo inquiry form](https://dgway.com/download/download_form.html?d=AATQDMA_LL10GEMAC_X3522.zip).
-3. Design Gateway’s Low Latency IP Cores: [Visit Here](https://dgway.com/Lowlatency-IP_X_E.html).
+1. Demo Configuration files for Alveo Card: Available in the **config** folder.
+2. Example sample data to run with Demo on X3522PV Card: Request via the [demo inquiry form](https://dgway.com/download/download_form.html?d=AATQDMA_LL10GEMAC_X3522.zip).
+3. For more information, please visit Design Gateway’s Low Latency IP Cores: [Visit Here](https://dgway.com/Lowlatency-IP_X_E.html).
 
 ---
 
