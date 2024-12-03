@@ -32,7 +32,8 @@ Software-based trading applications typically respond to market changes in micro
 This demo is a modified version of AMD’s proprietary Accelerated Algorithmic Trading (AAT) demo, known as the **AAT QDMA demo**. It is specifically designed to achieve lower latency by utilizing the **LL10GEMAC-IP** from Design Gateway (DG).
 
 ### Resources
-- Detailed information about the DG AAT QDMA demo: [Reference Design Document](https://dgway.com/products/IP/Lowlatency-IP/ll10gemac-ip-aat-qdma-refdesign-amd/)
+- Detailed demo instruction of the DG AAT QDMA demo: [Demo Instruction Document](https://dgway.com/products/IP/Lowlatency-IP/ll10gemac-ip-aat-qdma-instruction-amd/)
+- Detailed reference design of the DG AAT QDMA demo: [Reference Design Document](https://dgway.com/products/IP/Lowlatency-IP/ll10gemac-ip-aat-qdma-refdesign-amd/)
 - Latency details for the LL10GEMAC-IP: [Datasheet](https://dgway.com/products/IP/Lowlatency-IP/dg_ll10gemacip_data_sheet_xilinx_en/)
 
 ### Test Environment
