@@ -19,7 +19,7 @@ Software-based trading applications typically respond to market changes in micro
 3. **Proven Success in Real-World Trading**
    - The low-latency 10G EMAC IP core has already been validated in live trading environments, such as the Stock Exchange of Thailand (SET), and supports key protocols, including NASDAQ.
 
-## Comparison: FPGA-based HLS vs. Software & Smart NIC for High Frquency Trading
+## Comparison: FPGA-based HLS vs. Software & Smart NIC for High Frequency Trading
 
 | Feature                        | FPGA-based HLS          | Software & Smart NIC |
 |--------------------------------|-------------------------|----------------------|
